@@ -72,7 +72,7 @@ li{
 }
 
 #hero-container{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/src/images/herobanner.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/herobanner.png");
     height: 400px;
     margin-top: 20px;
     border: solid white;
