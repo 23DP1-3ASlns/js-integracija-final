@@ -294,6 +294,7 @@ a:hover{
     font-style: normal;
     border: none;
     font-size: 25px;
+    border-radius: 5px;
   }
 
   #wholecontainer{
