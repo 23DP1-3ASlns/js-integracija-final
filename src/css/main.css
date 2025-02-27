@@ -17,7 +17,7 @@ Main part of the code
 
 body, html{
     height: 100%;
-    background-image: url('/src/images/bg2.png');
+    background-image: url('../images/bg2.png');
 }
 
 nav{
